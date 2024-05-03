@@ -21,6 +21,7 @@ I'm `Sami`, Front End Web Application Developer from  Bangladesh <img src="asset
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=user01samiul&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br>
 <details>
 <summary>Wanna know more about me? </summary>
+<p>I'm a self-taught web application developer developer since 2023. I first started coding at 7th grade with C. Then I shifted into web developement. I explored JavScripted and found that it was fun. I love to build eye catchy web application.</p>
 <br>
   
 ![](https://github-readme-stats.vercel.app/api?username=user01samiul&theme=dark&hide_border=true&include_all_commits=true&count_private=true) 
