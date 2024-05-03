@@ -1,4 +1,4 @@
-## Hi there <img src="assets/hello.gif" width="28px" alt="hi">!
+## Hi there <img src="assets/hello.gif" width="28px" alt="hi">
 I'm Sami, Front End Web Application Developer from  Bangladesh <img src="assets/bangladesh.png" width="18"/>. I build and work on outstanding projects everyday.
 
 :handshake: &emsp;Let's collaborate and share knowledge! <br/>
