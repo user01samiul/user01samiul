@@ -4,7 +4,7 @@ I'm `Sami`, Front End Web Application Developer from  Bangladesh <img src="asset
 :handshake: &emsp;Let's collaborate and share knowledge! <br/>
 :computer: &emsp;Javascript is fun. <br/>
 :man_technologist: &emsp;I’m looking for people who can help me in this field.<br/>
-:e-mail: &emsp;Rach me on email : samiul.primary@gmail.com<br/>
+:e-mail: &emsp;Reach me on email : samiul.primary@gmail.com<br/>
 ⚡ &emsp;Fun fact : I don't go out.
 
 
