@@ -1,7 +1,7 @@
 ![logo](https://github.com/user01samiul/user01samiul/blob/main/assets/banner.png) 
 
 ## Hi there <img src="assets/hello.gif" width="28px" alt="hi">
-I'm `Sami`, Front End Web Application Developer from  Bangladesh <img src="assets/bangladesh.png" width="18"/>. I build and work on outstanding projects everyday.
+I'm `Sami`, Front End Web Application Developer from  Bangladesh <img src="assets/bangladesh.png" width="18"/>. I build and work on outstanding projects.
 
 :handshake: &emsp;Let's collaborate and share knowledge! <br/>
 :computer: &emsp;Javascript is fun. <br/>
