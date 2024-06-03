@@ -13,7 +13,7 @@ I'm `Sami`, Front End Web Application Developer from  Bangladesh <img src="asset
 
 #### 🌐 Connect with me :
 <p align="left">
-<a href="https://twitter.com/unfazedsami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unfazedsami" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/unfazedsami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unfazedsami" height="30" width="40" /></a> -->
 <a href="https://instagram.com/_sa.mii__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sa.mii__" height="30" width="40" /></a>
 </p>
 
