@@ -4,8 +4,7 @@
 I'm `Sami`, Fullstack Web Application Developer from  Bangladesh <img src="assets/bangladesh.png" width="18"/>. I build and work on outstanding projects.
 
 :handshake: &emsp;Let's collaborate and share knowledge! <br/>
-:computer: &emsp;Javascript is fun. Python didn't bite me. <br/>
-<!-- :man_technologist: &emsp;I’m looking for people who can collaborate with me.<br/> -->
+:computer: &emsp;Javascript is fun. Python didn't bite me. <br/>      <!-- :man_technologist: &emsp;I’m looking for people who can collaborate with me.<br/> -->
 :e-mail: &emsp;Reach me on email : samiul.primary@gmail.com<br/>
 ⚡ &emsp;Fun fact : I don't go outside home.
 
