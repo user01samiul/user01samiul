@@ -1,6 +1,6 @@
 <!--  ![banner](https://github.com/user01samiul/user01samiul/blob/main/assets/banner.png)  --> 
 
-## Hi there <img src="assets/hello.gif" width="28px" alt="hi">f
+## Hi there <img src="assets/hello.gif" width="28px" alt="hi">
 I'm `Sami`, Fullstack Web Application Developer from  Bangladesh <img src="assets/bangladesh.png" width="18"/>. I build and work on outstanding projects.
 
 :handshake: &emsp;Let's collaborate and share knowledge! <br/>
