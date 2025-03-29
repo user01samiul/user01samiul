@@ -5,7 +5,7 @@ I'm `Sami`, Fullstack Web Application Developer from  Bangladesh <img src="asset
 
 :handshake: &emsp;Let's collaborate and share knowledge! <br/>
 :computer: &emsp;Javascript is fun. Python didn't bite me. <br/>      <!-- :man_technologist: &emsp;I’m looking for people who can collaborate with me.<br/> -->
-:e-mail: &emsp;Reach me at email : samiul.primary@gmail.com<br/>
+:e-mail: &emsp;Reach me at email : samiul@intellixel.com<br/>
 ⚡ &emsp;Fun fact : I don't go outside home.
 
 
@@ -13,7 +13,7 @@ I'm `Sami`, Fullstack Web Application Developer from  Bangladesh <img src="asset
 #### 🌐 Connect with me :
 <p align="left">
 <!-- <a href="https://twitter.com/unfazedsami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unfazedsami" height="30" width="40" /></a> -->
-<a href="https://instagram.com/_sa.mii__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sa.mii__" height="30" width="40" /></a>
+<a href="https://instagram.com/sami_intx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sami_intx" height="30" width="40" /></a>
 </p>
 
 #### 💻 I code with :
