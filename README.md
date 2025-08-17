@@ -9,8 +9,9 @@ I'm Samiul, a passionate Full Stack Developer from Bangladesh <img src="assets/b
 ✔ Performance optimization & clean architecture  
 ✔ RESTful API design & microservices  
 ✔ Database architecture & cloud integration  
+✔ AI automation & integration  
 
-📫 **Professional Inquiry:** samiul@intellixel.com  
+📫 **Professional Inquiry:** samiul.primary@gmail.com  
 ⚡ **Work Philosophy:** "Solve complex problems with elegant solutions"
 
 ---
