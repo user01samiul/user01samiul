@@ -2,7 +2,7 @@
 
 ## <img src="assets/hello.gif" width="28px" alt="hi"> Full Stack Web Application Developer
 
-I'm Samiul, a passionate Full Stack Developer from Bangladesh <img src="assets/bangladesh.png" width="18"/>, specializing in building scalable web applications with modern technologies. I architect robust solutions for complex businesses including HRM, CRM, and enterprise applications.
+I'm Samiul, a passionate Full Stack Developer from Bangladesh <img src="assets/bangladesh.png" width="18"/>, specializing in building scalable web applications with modern technologies. I architect robust solutions for businesses including HRM, CRM, and enterprise applications.
 
 🔹 **Core Competencies:**  
 ✔ Full lifecycle application development  
