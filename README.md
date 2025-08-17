@@ -1,53 +1,75 @@
-# Samiul Islam | Full Stack Web Application Developer
+<!-- ![banner](https://github.com/user01samiul/user01samiul/blob/main/assets/banner.png) -->
 
-<div align="center">
-  <img src="assets/banner.png" alt="Developer Banner" width="100%">
-</div>
+## <img src="assets/hello.gif" width="28px" alt="hi"> Full Stack Web Application Developer
 
-## Professional Profile
+I'm Samiul, a passionate Full Stack Developer specializing in modern web technologies. Based in Bangladesh <img src="assets/bangladesh.png" width="18"/>, I craft high-performance web applications with clean architecture and intuitive user experiences.
 
-Experienced Full Stack Developer specializing in JavaScript ecosystem with production-grade expertise in React, Node.js, and modern web architectures. Passionate about building scalable applications with clean code principles and optimal user experiences.
+🔹 **Expertise**: JavaScript ecosystem, responsive interfaces, and scalable backends  
+🔹 **Approach**: Performance-focused development with maintainable code  
+🔹 **Mindset**: Continuous learning and adopting best practices  
 
-📍 Based in Bangladesh <img src="assets/bangladesh.png" width="18"/>
+📫 **Professional inquiries**: samiul@intellixel.com  
+⚡ **Outside work**: Problem-solving enthusiast and tech explorer  
 
-## Technical Stack
+---
 
-### Core Competencies
-- **Frontend**: React.js, Next.js, TypeScript, React Query
-- **Backend**: Node.js, Express.js, RESTful APIs
-- **Databases**: MongoDB, Mongoose
-- **Cloud Services**: Firebase, Appwrite
-- **Styling**: Tailwind CSS, SASS, CSS-in-JS
-- **Tools**: Git, VS Code, Figma
+### 🌐 Professional Network
+<p align="left">
+  <a href="https://www.linkedin.com/in/samiul-linked" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://x.com/unfazedsami" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
+  </a>
+  <a href="https://www.facebook.com/samiul0011210" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/unfazedsami" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+  </a>
+</p>
 
-### Production Experience With:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+---
 
-## Professional Connect
+### 🛠 Technical Toolkit
 
-Let's discuss technology, opportunities, or potential collaborations:
+#### Frontend Development
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![React Query](https://img.shields.io/badge/React_Query-%23796BFF.svg?style=for-the-badge&logo=react-query&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiul-linked)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/unfazedsami)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samiul@intellixel.com)
+#### Backend & Databases
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Mongoose](https://img.shields.io/badge/Mongoose-%230E9B77.svg?style=for-the-badge&logo=mongoose&logoColor=white)
 
-## GitHub Metrics
+#### Styling & Tools
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![VSCode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=user01samiul&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=user01samiul&theme=dark&hide_border=true&layout=compact)
+#### Cloud & Platforms
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
+![Appwrite](https://img.shields.io/badge/appwrite-%23F02E65.svg?style=for-the-badge&logo=appwrite&logoColor=white)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=user01samiul&theme=dark&hide_border=true)
+---
 
-</div>
+### 📈 Development Metrics
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=user01samiul&icon=5&color=0" alt="Profile Views">
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=user01samiul&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<details>
+<summary>View Detailed Activity</summary>
+
+![](https://github-readme-stats.vercel.app/api?username=user01samiul&theme=dark&hide_border=true&include_all_commits=true&count_private=true) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=user01samiul&theme=dark&hide_border=true)
+
+</details>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=user01samiul&icon=5&color=0)](https://visitcount.itsvg.in)
