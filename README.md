@@ -1,44 +1,53 @@
-# Samiul Islam  
-**Full Stack Web Application Developer** | JavaScript Enthusiast | Bangladesh <img src="assets/bangladesh.png" width="18"/>
+# Samiul Islam | Full Stack Web Application Developer
 
-## <img src="assets/hello.gif" width="28px" alt="hi"> Introduction
-I'm a self-taught developer specializing in modern web applications. With a passion for clean code and intuitive UX, I build performant solutions across the stack.
+<div align="center">
+  <img src="assets/banner.png" alt="Developer Banner" width="100%">
+</div>
 
-## 🔧 Technical Stack
-### Frontend
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## Professional Profile
 
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+Experienced Full Stack Developer specializing in JavaScript ecosystem with production-grade expertise in React, Node.js, and modern web architectures. Passionate about building scalable applications with clean code principles and optimal user experiences.
+
+📍 Based in Bangladesh <img src="assets/bangladesh.png" width="18"/>
+
+## Technical Stack
+
+### Core Competencies
+- **Frontend**: React.js, Next.js, TypeScript, React Query
+- **Backend**: Node.js, Express.js, RESTful APIs
+- **Databases**: MongoDB, Mongoose
+- **Cloud Services**: Firebase, Appwrite
+- **Styling**: Tailwind CSS, SASS, CSS-in-JS
+- **Tools**: Git, VS Code, Figma
+
+### Production Experience With:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+## Professional Connect
 
-## 🌐 Connect With Me
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/unfazedsami)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiul-linked)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/samiul0011210)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/unfazedsami)
+Let's discuss technology, opportunities, or potential collaborations:
 
-✉️ Professional inquiries: samiul@intellixel.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiul-linked)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/unfazedsami)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samiul@intellixel.com)
 
-## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=user01samiul&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=user01samiul&theme=dark&hide_border=true)
+## GitHub Metrics
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=user01samiul&theme=dark&hide_border=true&layout=compact)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=user01samiul&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=user01samiul&theme=dark&hide_border=true&layout=compact)
 
-## 🚀 Current Focus
-- Building scalable full-stack applications
-- Improving TypeScript proficiency
-- Exploring advanced React patterns
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=user01samiul&theme=dark&hide_border=true)
 
-[![Visits](https://visitcount.itsvg.in/api?id=user01samiul&icon=5&color=0)](https://visitcount.itsvg.in)
+</div>
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=user01samiul&icon=5&color=0" alt="Profile Views">
+</div>
