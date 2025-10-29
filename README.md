@@ -12,7 +12,7 @@ I'm Samiul, a professional Full Stack Developer 👋🏻 , specializing in build
 ✔ AI automation & integration  
 
 📫 **Professional Inquiry:** samiul.primary@gmail.com  
-⚡ **Work Philosophy:** "Solve complex problems with elegant solutions"
+⚡ **Work Philosophy:** "Solve complex problems in chunks"
 
 ---
 
