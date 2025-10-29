@@ -21,7 +21,7 @@ I'm Samiul, a professional Full Stack Developer 👋🏻 , specializing in build
   <a href="https://x.com/unfazedsami" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unfazedsami" height="30" width="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/samiul-linked" target="blank">
+  <a href="https://www.linkedin.com/in/unfazedsami" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samiul-linked" height="30" width="40"/>
   </a>
   <a href="https://www.facebook.com/samiul0011210" target="blank">
